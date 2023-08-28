@@ -9,6 +9,7 @@ If Answer = vbYes Then
 DataSheet.Rows(Ldelte).Delete
 MsgBox "Êã ÍÐÝ ÇáÈíÇäÇÊ ÈäÌÇÍ", vbInformaion + vbMsgBoxRight + vbMsgBoxRtlReading, "ÊÃßíÏ"
 Else
+  
 Cancel = True
 End If
 Me.TextBox2.Value = ""
