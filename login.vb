@@ -8,6 +8,7 @@ Me.CheckBox1.Caption = "ÅÙåÇÑ ßáãÉ ÇáãÑæÑ"
 
 End If
 
+  
 End Sub
 
 Private Sub CmdClose_Click()
