@@ -4,6 +4,7 @@ Private Sub CommandButton1_Click()
 End Sub
 
 
+
 Private Sub CmdClose_Click()
 Dim Anser2 As VbMsgBoxResult
 Anser2 = MsgBox("åá ÊÑíÏ ÇáÎÑæÌ¿", vbCritical + vbQuestion + vbYesNo + vbMsgBoxRight + vbMsgBoxRtlReading, "ÊäÈíå")
