@@ -24,6 +24,7 @@ End Sub
 
 Private Sub CmdSave_Click()
 Dim Lr As Integer
+    
 Lr = DataSheet.Range("A10000").End(xlUp).Row + 1
 
 DataSheet.Cells(Lr, "A").Value = Me.TextBox2.Value
